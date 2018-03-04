@@ -1,0 +1,25 @@
+.title{
+    text-align: center ;
+    font-size: 30px ;
+}
+
+.chatbox{
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    display : block;
+    Margin : auto;
+    padding : 50px;
+}
+
+.chatmsg{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.sendbtn{
+    margin-top: 15px;
+    width: 100px;
+    height: 40px;
+    Margin : auto;
+}
